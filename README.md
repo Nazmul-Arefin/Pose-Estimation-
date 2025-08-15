@@ -17,15 +17,6 @@ This project demonstrates real-time human pose estimation using OpenPose with Op
 ## 📂 File Structure
 
 ```
-pose_estimation/
-├── graph_opt.pb            # Pre-trained OpenPose model
-├── input.jpg               # Example image
-├── pose_estimation.py      # Main script
-├── utils.py                # Helper functions
-└── README.md
-```
-
----
 
 ## 🖥️ Usage
 
